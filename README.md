@@ -18,14 +18,15 @@ RealEstatePro is a responsive real estate frontend application built with React 
 
 ## Live Demo
 
-[View Deployed Site](https://your-deployment-link.netlify.app)
+[View Deployed Site][View Deployed Site](https://cheery-crisp-0f29f6.netlify.app)
+
 
 ## Getting Started
 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/realestatepro.git
+git clone https://github.com/ramshahm/realestatepro.git
 cd realestatepro
 npm install
 npm start
